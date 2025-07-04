@@ -71,10 +71,27 @@ const mockTailLists = [
   },
 ];
 
+const goodLists = [
+  "Handpicked ingredients",
+  "Signature techniques",
+  "Bartending artistry in action",
+  "Freshly muddled flavors",
+];
+
+const featureLists = [
+  "Perfectly balanced blends",
+  "Garnished to perfection",
+  "Ice-cold every time",
+  "Expertly shaken & stirred",
+];
+
 
 
 export {
   navLinks,
   cocktailLists,
-  mockTailLists
+  mockTailLists,
+  goodLists,
+  featureLists
+
 };
