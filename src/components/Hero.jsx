@@ -68,13 +68,6 @@ const Hero = () => {
     }
   }, [])
 
-  /*     videoRef.current.onloadedmetadata = () => {
-      tl.to(videoRef.current, {
-       currentTime: videoRef.current.duration,
-      });
-     };
-    }, []); */
-
   return (
     <>
       <section id='hero' className='noisy'>
